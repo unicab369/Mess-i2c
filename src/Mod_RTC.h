@@ -1,5 +1,5 @@
 #include "RTClib.h"
-#include "../DataModel/ClockItem.h"
+#include "ClockItem.h"
 
 // #include <RtcDS1302.h>
 
